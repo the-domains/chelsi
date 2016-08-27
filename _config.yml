@@ -1,0 +1,14 @@
+name: chelsi
+layout_spectrum: 0.15952211825949492
+typography_spectrum: 0.3243229370131735
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.23523224609410176
+  lightness: 0.9581145872264951
+  saturation: 0.4787523876755594
+  rhythmicContrast: 0.14610717324131783
